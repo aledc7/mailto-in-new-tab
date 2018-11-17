@@ -1,5 +1,4 @@
-## El siguiente código sirve para insertar en un sitio web en donde se requiera que al dar click en una dirección de mail
-## nos abra una nueva pestaña con la cuenta de correo electrónico predeterminada
+## El siguiente código sirve para insertar en un sitio web en donde se requiera que al dar click en una dirección de mail nos abra una nueva pestaña con la cuenta de correo electrónico predeterminada
 
 
 ```
