@@ -1,7 +1,12 @@
+# Mail en un nuevo Tab
+
+[<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
+
+
 ## El siguiente código sirve para insertar en un sitio web en donde se requiera que al dar click en una dirección de mail nos abra una nueva pestaña con la cuenta de correo electrónico predeterminada
 
 
-```
+```js
 <span style="font-size: 1.2em;">
 <a onClick="javascript:window.open('mailto:info@aledc.com?
 subject=Mail generado desde aledc.com&body=Escriba acá su consulta',
